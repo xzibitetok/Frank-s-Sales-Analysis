@@ -95,8 +95,7 @@ Build a clean dashboard page with:
 ---
 
 ## 📊 Power BI Visualization
-**File:** [📥 Download Frank Sales Report.pbix](Frank-s-Sales-Analysis/Frank%20Sales%20report.pbix)
-
+**File:** `powerbi/xzibit report.pbix`
 
 ### Model & Relationships
 - **Orders** (fact) connected to **People** by `Region`
