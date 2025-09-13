@@ -75,7 +75,7 @@ Create these pivots on a dedicated sheet (e.g., `PIVOT TABLES`):
 - **Returns Impact** (Use a helper or `Returns` join indicator to compare Returned vs Not Returned)
 
 📸 **Pivot Summary (Excel)**  
-![Table View A](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Table%20View%20A.png)
+![Table View A](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Pivot.png)
 
 ---
 
