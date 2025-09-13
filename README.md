@@ -100,7 +100,8 @@ Create these pivots on a dedicated sheet (e.g., `PIVOT TABLES`):
 - **Breakdowns:** Sales by Category/Sub-Category (Bar), Profit by Segment (Donut), Sales by Region (Map or Bar)  
 - **Filters/Slicers:** Region, Segment, Category, Year
 
-📸 **Power BI Dashboard**  
+📸 **Power BI Dashboard**
+![Model View](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Model%20View.png)
 ![Report View](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Report%20View.png)
 
 ---
