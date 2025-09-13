@@ -14,9 +14,9 @@ End-to-end sales analysis using **Excel for data preparation & pivot dashboards*
 3. [Excel Analysis (Start → Finish)](#-excel-analysis-start--finish)  
 4. [Power BI Visualization](#-power-bi-visualization)  
 5. [Key Insights (Examples)](#-key-insights-examples)  
-6. [How to Run](#-how-to-run)  
-7. [Screenshot Instructions](#-screenshot-instructions)  
-8. [Author & Contact](#-author--contact)
+6. [How to Run](#-how-to-run)
+7. [Author](#-author)
+
 
 ---
 
