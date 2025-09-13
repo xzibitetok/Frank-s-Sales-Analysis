@@ -49,9 +49,10 @@ This project transforms raw sales transactions into **clear, decision-ready insi
 - **Returns** (dim): Returned orders by `Order ID`.
 
 📸 **Raw Data Sample (Excel)**  
-> Add this screenshot: `images/raw_data.png`  
-`images/raw_data.png` *(table view with a few rows from the **Orders** sheet)*
-
+![Order A](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Order%20A.png)
+![Order B](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Order%20B.png)
+![People](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/People.png)
+![Returns](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Returns.png)
 ---
 
 ### 2) Cleaning & Preparation (Excel)
@@ -74,23 +75,7 @@ Create these pivots on a dedicated sheet (e.g., `PIVOT TABLES`):
 - **Returns Impact** (Use a helper or `Returns` join indicator to compare Returned vs Not Returned)
 
 📸 **Pivot Summary (Excel)**  
-> Add this screenshot: `images/pivot_summary.png`  
-`images/pivot_summary.png` *(a single image that shows 2–3 pivots at once is fine)*
-
----
-
-### 4) Excel Dashboard (Optional but Recommended)
-Build a clean dashboard page with:
-- **KPIs:** Total Sales, Total Profit, Profit Margin, Orders Count  
-- **Charts:**  
-  - Column: Sales by Category  
-  - Line: Monthly Sales Trend  
-  - Donut/Pie: Profit by Segment  
-- **Slicers:** Region, Segment, Year/Month, Category
-
-📸 **Excel Dashboard**  
-> Add this screenshot: `images/excel_dashboard.png`  
-`images/excel_dashboard.png` *(the dashboard sheet with slicers & charts)*
+![Table View A](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Table%20View%20A.png)
 
 ---
 
@@ -116,8 +101,7 @@ Build a clean dashboard page with:
 - **Filters/Slicers:** Region, Segment, Category, Year
 
 📸 **Power BI Dashboard**  
-> Add this screenshot: `images/powerbi_dashboard.png`  
-`images/powerbi_dashboard.png` *(main report page showing KPIs & key charts)*
+![Report View](https://github.com/xzibitetok/Frank-s-Sales-Analysis/blob/main/Report%20View.png)
 
 ---
 
